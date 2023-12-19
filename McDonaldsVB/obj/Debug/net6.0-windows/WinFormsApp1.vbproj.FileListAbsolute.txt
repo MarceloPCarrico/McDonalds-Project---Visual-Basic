@@ -1,0 +1,473 @@
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Resources.resources
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.SplashScreen1.resources
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Resources.resources
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.SplashScreen1.resources
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CopyComplete
+C:\Users\Formação Pro\Documents\Formacao\VisualBasic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.faturaPedido.resources
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.estatistica.resources
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.faturaPedido.resources
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Resources.resources
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.SplashScreen1.resources
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CopyComplete
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\marce.LAPTOP\Desktop\Demo5.Zé\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.estatistica.resources
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.faturaPedido.resources
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CopyComplete
+C:\Users\jmigu\Documents\Formacao\Visual Basic\PFRestaurante\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.basededados.resources
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.basededados.resources
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.estatistica.resources
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.faturaPedido.resources
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Resources.resources
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.SplashScreen1.resources
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CopyComplete
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Formação Pro\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.basededados.resources
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.estatistica.resources
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.faturaPedido.resources
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Resources.resources
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.SplashScreen1.resources
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CopyComplete
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AboutBox1.resources
+C:\Users\jmigu\Desktop\ProjFinal\ze\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.login.resources
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AboutBox1.resources
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.basededados.resources
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.estatistica.resources
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.faturaPedido.resources
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.login.resources
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Resources.resources
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.SplashScreen1.resources
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CopyComplete
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\jmigu\Documents\Formacao\Visual Basic\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\ZstdSharp.dll
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AboutBox1.resources
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.basededados.resources
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.estatistica.resources
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.faturaPedido.resources
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.login.resources
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Resources.resources
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.SplashScreen1.resources
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CopyComplete
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+F:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AboutBox1.resources
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.basededados.resources
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.estatistica.resources
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.faturaPedido.resources
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.login.resources
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Resources.resources
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.SplashScreen1.resources
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CopyComplete
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AboutBox1.resources
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.basededados.resources
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.estatistica.resources
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.faturaPedido.resources
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.login.resources
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Resources.resources
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.SplashScreen1.resources
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CopyComplete
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Formação Pro\Desktop\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AboutBox1.resources
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.basededados.resources
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.estatistica.resources
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.faturaPedido.resources
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.login.resources
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Resources.resources
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.SplashScreen1.resources
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CopyComplete
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Formação Pro\Desktop\New folder\ProjFinal\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.AboutBox1.resources
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.basededados.resources
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.estatistica.resources
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.faturaPedido.resources
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.login.resources
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.Resources.resources
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.SplashScreen1.resources
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CopyComplete
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\marce.LAPTOP\Desktop\ProjFinal\McDonaldsVB\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
